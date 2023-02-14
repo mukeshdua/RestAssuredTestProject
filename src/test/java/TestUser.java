@@ -10,7 +10,7 @@ import utils.rest.RestUtil;
 
 import java.util.Optional;
 
-public class TestCustomAPI {
+public class TestUser {
 
     @Test
     public void testGetUsers()
